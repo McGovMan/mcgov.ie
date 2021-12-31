@@ -1,0 +1,21 @@
+
+version: '3'
+services: 
+  hugo:
+    image: klakegg/hugo:0.83.1-ubuntu
+    volumes:
+       - "./:/src"
+    command: server -b "https://hugo.mcgov.ie" -p 443
+    expose: [443]
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.hugo-mcgov-ie.rule=Host(`hugo.mcgov.ie`)"
+      - "traefik.http.routers.hugo-mcgov-ie.entrypoints=websecure"
+      - "traefik.http.routers.hugo-mcgov-ie.tls=true"
+      - "traefik.docker.network=transit-public"
+    networks:
+      - transit-public
+
+networks:
+  transit-public:
+    external: true
