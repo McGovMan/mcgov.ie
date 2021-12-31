@@ -20,6 +20,8 @@ I've been on the Computer Society committee ever since the beginning of my first
 For the last two years, I have been soley maintaining all infastructure and am currently redesigning the services we offer (e.g. [IaaS API](https://github.com/nuigcompsoc/api))
 The last three years I have worked as a:  
 
-> Chief System Administrator  | July 2020 - Present  
-> Auditor            | July 2019 - June 2020  
-> Junior System Administrator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| September 2018 - June 2019  
+| Position                    | Year                       |
+|-----------------------------|----------------------------|
+| Chief System Administrator  | July 2020 - Present        |
+| Auditor                     | July 2019 - June 2020      |
+| Junior System Administrator | September 2018 - June 2019 |
