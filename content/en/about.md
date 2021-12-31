@@ -1,10 +1,25 @@
 ---
 title: "About Me"
-date: 2021-12-31T17:19:19Z
+date: 2021-12-31
 draft: false
 translationKey: 'about'
 ---
 
-I am a tech enthusiast, have been my whole life. I host my own servers for fun. I just like the idea of how cool it is that you can send a piece of information around the world in a few milliseconds 
+## TL;DR
+I am a tech enthusiast, and have been my whole life. I host my own networks and servers for fun. I find it facinating that you can send a piece of information around the world in a few milliseconds.
 
-Originally from Co. Mayo; now studying Computer Science in NUI Galway and Chief System Administrator for the Computer Society.
+## Personal Life
+I'm originally from Kiltimagh, County Mayo, a small town with a huge heart. I moved to Galway City three years ago to start my career as a Computer Scientist with the help of NUI Galway.
+As my [GitHub profile](https://github.com/mcgovman) states:  
+> 💬 Ask me about Farming, REST APIs and Irish Folklore  
+> 💼 Most recently worked with Hewlett Packard Enterprise PointNext  
+> 😊 Proudest of My involvement with [NUI Galway's Computer Society](https://compsoc.ie)  
+
+## NUI Galway CompSoc
+I've been on the Computer Society committee ever since the beginning of my first year at NUI Galway. I've worked through every position on the committee from Auditor to OCM.
+For the last two years, I have been soley maintaining all infastructure and am currently redesigning the services we offer (e.g. [IaaS API](https://github.com/nuigcompsoc/api))
+The last three years I have worked as a:  
+
+> Chief System Administrator  | July 2020 - Present  
+> Auditor            | July 2019 - June 2020  
+> Junior System Administrator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| September 2018 - June 2019  

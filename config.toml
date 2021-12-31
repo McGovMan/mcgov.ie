@@ -1,4 +1,4 @@
-baseURL = "https://hugo.mcgov.ie"
+baseURL = "https://mcgov.ie"
 title = "Home | Welcome"
 theme = "hugo-coder"
 languageCode = "en"
@@ -85,7 +85,7 @@ weight = 5
 url = "https://buymeacoff.ee/mcgov"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":uk: English"
 contentDir = 'content/en'
 
 [[languages.en.menu.main]]
@@ -111,7 +111,7 @@ url = "contact/"
 # Irish Content
 
 [languages.ga]
-languageName = ":flag-ie:"
+languageName = ":flag-ie: Gaelige"
 contentDir = 'content/ga'
 author = "Conchobhar Mág Samhradháin"
 title = "Leathanach Baile | Fáilte"

@@ -10,7 +10,6 @@ categories = ["CompSoc"]
 externalLink = ""
 series = []
 translationKey = "whats-the-story"
-aliases = ["/ga/posts/whats-the-story"]
 +++
 
 There are many ways to answer this question. I'm now coming into my third year of college and need to start focusing on personal projects for my own good (as I have lost touch with having fun with technology) and the good of my CV. I also need to start taking responsibility of the Computer Society; I'm the Chief System Administrator as of July and I want to make this year count as I have a great team and we can really get things working for years to come. 
