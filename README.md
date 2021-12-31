@@ -20,7 +20,7 @@ git commit -m 'Updated to the latest version'
 
 ## License
 
-Coder is licensed under the [MIT license](https://github.com/mcgovman/mcgov.ie/blob/master/LICENSE.md).
+Coder is licensed under the [MIT license](https://github.com/mcgovman/mcgov.ie/blob/master/LICENSE).
 
 ## Maintenance
 
