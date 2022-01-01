@@ -12,7 +12,7 @@ enableEmoji = true
 [params]
 author = "Conor Mc Govern"
 description = "Conor Mc Govern's personal website"
-keywords = "blog,developer,personal,computer science,conor mc govern,compsoc,nuig"
+keywords = "blog,developer,personal"
 info = ["Full Stack Developer", "4th Year Computer Science Student"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
