@@ -1,0 +1,58 @@
+[categories]
+one = "catagóir"
+other = "catagóirí"
+
+[tags]
+one = "lipéad"
+other = "lipéad"
+
+[series]
+one = "sraith"
+other = "sraith"
+
+[authors]
+one = "údar"
+other = "údair"
+
+[posts]
+other = "na poist"
+
+[reading_time]
+one = "Nóiméad amháin léigh"
+other = "{{ .Count }}-nóiméad léigh"
+
+[page_not_found]
+other = "Ní bhfuarthas an leathanach"
+
+[page_does_not_exist]
+other = "Tá brón orm, níl an leathanach seo ann. "
+
+[head_back]
+other = "Is féidir leat dul ar ais go dtí an <a href=\"{{ . }}\">leathanach baile</a>."
+
+[powered_by]
+other = "Mórchumhachtach cois"
+
+[see_also]
+other = "féach freisin i"
+
+[note]
+other = "notá"
+
+[tip]
+other = "tip"
+
+[example]
+other = "sampla"
+
+[question]
+other = "ceist"
+
+[info]
+other = "eolas"
+
+[warning]
+other = "rabhadh"
+
+[error]
+other = "earráid"
