@@ -1,0 +1,25 @@
+name: Build & Run On Einstein.McGov.ie On Merged Pull Request To Main
+
+# only trigger on pull request closed events
+on:
+  pull_request:
+    branches:
+      - main
+    types: [ closed ]
+
+jobs:
+  deploy:
+    # this job will only run if the PR has been merged
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy To Einstein
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.EINSTEIN_SSH_HOST }}
+          username: ${{ secrets.EINSTEIN_MCGOV_IE_SSH_USERNAME }}
+          key: ${{ secrets.EINSTEIN_MCGOV_IE_SSH_SECRET }}
+          port: ${{ secrets.EINSTEIN_SSH_PORT }}
+          script: |
+            cd ~/mcgov.ie
+            ./deploy/deploy-prod.sh
