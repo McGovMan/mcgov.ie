@@ -13,6 +13,7 @@ services:
       - "traefik.http.routers.mcgov-ie.entrypoints=websecure"
       - "traefik.http.routers.mcgov-ie.tls=true"
       - "traefik.docker.network=transit-public"
+      - "traefik.http.routers.mcgov-ie.tls.certresolver=myresolver"
     networks:
       - transit-public
 
