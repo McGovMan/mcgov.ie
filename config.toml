@@ -13,7 +13,7 @@ enableEmoji = true
 author = "Conor Mc Govern"
 description = "Conor Mc Govern's personal website"
 keywords = "blog,developer,personal,computer science,conor mc govern,compsoc,nuig"
-info = ["Full Stack Developer", "4th Year Computer Science Student"]
+info = ["Full Stack Developer"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2021
@@ -117,7 +117,7 @@ author = "Conchobhar Mág Samhradháin"
 title = "Leathanach Baile | Fáilte"
 
 [languages.ga.params]
-info = ["Ríomhchláraitheoir", "Mac Léinn Ríomheolaíocht 4ú Bliana"]
+info = ["Ríomhchláraitheoir"]
 
 [[languages.ga.menu.main]]
 name = "Fúm"
