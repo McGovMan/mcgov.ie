@@ -12,8 +12,8 @@ enableEmoji = true
 [params]
 author = "Conor Mc Govern"
 description = "Conor Mc Govern's personal website"
-keywords = "blog,developer,personal,computer science,conor mc govern,compsoc,nuig"
-info = ["Full Stack Developer"]
+keywords = "blog,developer,personal,computer science,conor mc govern,compsoc,nuig,genesys"
+info = ["Associate Software Engineer In Test", "At Genesys"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2021
@@ -117,7 +117,7 @@ author = "Conchobhar Mág Samhradháin"
 title = "Leathanach Baile | Fáilte"
 
 [languages.ga.params]
-info = ["Ríomhchláraitheoir"]
+info = ["Innealtóir Bogearraí Comhlach i dTástáil", "Ag Genesys"]
 
 [[languages.ga.menu.main]]
 name = "Fúm"

@@ -23,6 +23,6 @@ Le trí bliana anuas d'oibrigh mé mar:
 
 | Position                          | Year                               |
 |-----------------------------------|------------------------------------|
-| Príomh-Riarthóir Córais           | Iúil 2020 - I láthair              |
+| Príomh-Riarthóir Córais           | Iúil 2020 - Iúil 2022              |
 | Iniúchóir                         | Iúil 2019 - Meitheamh 2020         |
 | Riarthóir an Chórais Shóisearaigh | Meán Fómhair 2018 - Meitheamh 2019 |
