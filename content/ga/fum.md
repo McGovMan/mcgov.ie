@@ -9,7 +9,7 @@ translationKey: 'about'
 Is díograiseoir ardteicneolaíochta mé, agus bhí mo shaol ar fad agam. Óstáilim mo líonraí agus mo fhreastalaithe féin le haghaidh spraoi. Is dóigh liom gur féidir leat píosa faisnéise a sheoladh ar fud an domhain i gcúpla milleasoicind.
 
 ## Saol Pearsanta
-Is as Kiltimagh, Contae Mhaigh Eo dom ó dhúchas, baile beag le croí ollmhór. Bhog mé go Cathair na Gaillimhe trí bliana ó shin chun mo shlí bheatha mar Eolaí Ríomhaireachta a thosú le cabhair ó OÉ Gaillimh.
+Is as Coillte Mach, Contae Mhaigh Eo dom ó dhúchas, baile beag le croí ollmhór. Bhog mé go Cathair na Gaillimhe trí bliana ó shin chun mo shlí bheatha mar Eolaí Ríomhaireachta a thosú le cabhair ó OÉ Gaillimh.
 Mar a deir mo [phróifíl GitHub](https://github.com/mcgovman):
 
 > 💬 Fiafraigh díom faoi Fheirmeoireacht, REST APIs agus Béaloideas na hÉireann  
@@ -23,6 +23,7 @@ Le trí bliana anuas d'oibrigh mé mar:
 
 | Position                          | Year                               |
 |-----------------------------------|------------------------------------|
+| Comhairleoir                      | Iúil 2022 - I láthair              |
 | Príomh-Riarthóir Córais           | Iúil 2020 - Iúil 2022              |
 | Iniúchóir                         | Iúil 2019 - Meitheamh 2020         |
 | Riarthóir an Chórais Shóisearaigh | Meán Fómhair 2018 - Meitheamh 2019 |
