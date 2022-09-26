@@ -22,6 +22,7 @@ The last three years I have worked as a:
 
 | Position                    | Year                       |
 |-----------------------------|----------------------------|
+| Advisor                     | July 2022 - Present        |
 | Chief System Administrator  | July 2020 - July 2022      |
 | Auditor                     | July 2019 - June 2020      |
 | Junior System Administrator | September 2018 - June 2019 |
