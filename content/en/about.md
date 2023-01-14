@@ -12,7 +12,7 @@ I am a tech enthusiast, and have been my whole life. I host my own networks and 
 I'm originally from Kiltimagh, County Mayo, a small town with a huge heart. I moved to Galway City three years ago to start my career as a Computer Scientist with the help of NUI Galway.
 As my [GitHub profile](https://github.com/mcgovman) states:  
 > 💬 Ask me about Farming, REST APIs and Irish Folklore  
-> 💼 Most recently worked with Hewlett Packard Enterprise PointNext  
+> 💼 Currently working as an Associate Software Engineer in Genesys  
 > 😊 Proudest of My involvement with [NUI Galway's Computer Society](https://compsoc.ie)  
 
 ## NUI Galway CompSoc
