@@ -25,7 +25,7 @@ hugo new projects/my-first-project.md
 
 ## Publishing Website Changes
 
-I've written a workflow that deploys the website to [https://mcgov.ie](https://mcgov.ie) whenever a PR is merged into main from any branch. This method can be used to update any aspect of the website.
+I've written a workflow that deploys the website to [https://mcgov.ie](https://mcgov.ie) when a PR is merged into main from any branch. This method can be used to update any aspect of the website.
 
 ## Using This Repo As An Example
 
