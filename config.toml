@@ -117,7 +117,7 @@ author = "Conchobhar Mág Samhradháin"
 title = "Leathanach Baile | Fáilte"
 
 [languages.ga.params]
-info = ["Innealtóir Bogearraí Comhlach i dTástáil ag Genesys", "Idirlín Fear Poist Cáilithe"]
+info = ["Innealtóir Bogearraí i dTástáil ag Genesys", "Idirlín Fear Poist Cáilithe"]
 
 [[languages.ga.menu.main]]
 name = "Fúm"
