@@ -13,7 +13,7 @@ Is as Coillte Mach, Contae Mhaigh Eo dom ó dhúchas, baile beag le croí ollmh�
 Mar a deir mo [phróifíl GitHub](https://github.com/mcgovman):
 
 > 💬 Fiafraigh díom faoi Fheirmeoireacht, REST APIs agus Béaloideas na hÉireann  
-> 💼 Faoi láthair ag obair mar Innealtóir Bogearraí Comhlach i Genesys  
+> 💼 Faoi láthair ag obair mar Innealtóir Bogearraí i Genesys  
 > 😊 Bródúil as an mbaint atá agam le [Cumann Ríomhaireachta OÉ Gaillimh](https://compsoc.ie)  
 
 ## Cumann Ríomhaireachta OÉ Gaillimh 
