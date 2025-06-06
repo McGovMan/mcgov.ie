@@ -13,7 +13,7 @@ enableEmoji = true
 author = "Conor Mc Govern"
 description = "Conor Mc Govern's personal website"
 keywords = "blog,developer,personal,computer science,conor mc govern,compsoc,nuig,genesys"
-info = ["Software Engineer At Genesys", "A Qualified Internet Postman"]
+info = ["Software Engineer At Genesys", "Amatuer Radio Operator [EI9JBB]"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2021
@@ -111,7 +111,7 @@ author = "Conchobhar Mág Samhradháin"
 title = "Leathanach Baile | Fáilte"
 
 [languages.ga.params]
-info = ["Innealtóir Bogearraí i dTástáil ag Genesys", "Idirlín Fear Poist Cáilithe"]
+info = ["Innealtóir Bogearraí i dTástáil ag Genesys", "Oibreoir Raidió Amaitéaraigh [EI9JBB]"]
 
 [[languages.ga.menu.main]]
 name = "Fúm"
